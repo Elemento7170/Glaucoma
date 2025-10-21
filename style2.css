@@ -3,7 +3,7 @@ body {
             background-color: #f4f4f9;
             color: #333;
             margin: 0;
-            padding: 0;
+            padding: 0px;
         }
 
         header {
@@ -35,6 +35,8 @@ body {
         h2 {
             color: #4a90e2;
             margin-bottom: 15px;
+            text-align: center;
+            padding-bottom: 60px;
         }
 
         p {
@@ -69,10 +71,40 @@ body {
         }
 
         .img-glaucoma {
-    width: 100%;
-    height: auto;
-    max-height: 300px;
-    border-radius: 8px;
-    object-fit: cover;
-    margin-bottom: 20px;
+            width: 100%;
+            height: auto;
+            max-height: 300px;
+            border-radius: 8px;
+            object-fit: cover;
+            margin-bottom: 20px;
+}
+
+        .image-placeholder2 {
+            width: 100%;
+            height: auto;
+            max-height: 300px;
+            border-radius: 8px;
+            object-fit: cover;
+            margin-bottom: 20px;
+}
+
+        .image-placeholder3 {
+            width: 100%;
+            height: auto;
+            max-height: 300px;
+            border-radius: 8px;
+            object-fit: cover;
+            margin-bottom: 20px;
+}
+
+        .tipos {
+            margin: 22px;
+}
+
+       .diagnostico {
+            margin: 22px;
+}
+
+       .tratamiento {
+            margin: 22px;
 }
